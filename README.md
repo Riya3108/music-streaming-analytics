@@ -60,16 +60,7 @@ music-streaming-analysis/
 
 ---
 
-## 📊 Dataset Description
 
-The project uses simulated music streaming datasets:
-
-* **users.csv** → User details
-* **songs.csv** → Song metadata
-* **streams.csv** → User listening activity
-* **artists.csv** → Artist information
-
----
 
 ## ⚙️ ETL Pipeline
 
